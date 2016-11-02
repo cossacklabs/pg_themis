@@ -1,8 +1,12 @@
 CREATE EXTENSION
- themis_scell_decrypt_seal 
----------------------------
+ pg_themis_scell_decrypt_seal 
+------------------------------
+ \x746573742064617461
+(1 row)
+
+ pg_themis_smessage_decrypt 
+----------------------------
  \x746573742064617461
 (1 row)
 
 DROP EXTENSION
-

@@ -1,4 +1,4 @@
-comment = 'themis'
+comment = 'pg_themis'
 default_version = '1.0'
 
 relocatable = true
