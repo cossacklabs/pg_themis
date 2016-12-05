@@ -19,7 +19,7 @@ import postgresql
 from pythemis import scell
 
 #connect to bd
-db = postgresql.open('pq://andrey@localhost:5432/test')
+db = postgresql.open('pq://localhost:5432/test')
 
 #load module
 db.execute("CREATE EXTENSION IF NOT EXISTS pg_themis")
