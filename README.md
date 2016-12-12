@@ -3,8 +3,7 @@ Postgres Themis plugin
 
 =======
 
-pg_themis is a PostgreSQL extension for encryption using the themis library.
-Requires PostgreSQL version 9.1 or later.
+pg_themis is a PostgreSQL extension for encrypting/decrypting data using the [Themis](https://github.com/cossacklabs/themis)  library. Requires PostgreSQL version 9.1 or later.
 
 ## Building and installing PG_Themis
 
